@@ -1,0 +1,2 @@
+export const ACTION_USER_INPUT = "USER_INPUT";
+export const ACTION_INPUT_BLUR = "INPUT_BLUR";
